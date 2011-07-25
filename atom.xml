@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title></title>
+  <link href="http://pifantastic.github.com/atom.xml" rel="self"/>
+  <link href="http://pifantastic.github.com/"/>
+  <updated>2011-07-24T20:53:17-05:00</updated>
+  <id>http://pifantastic.github.com/</id>
+  <author>
+    <name>Aaron Forsander</name>
+    
+  </author>
+
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://pifantastic.github.com/blog/2011/07/24/hello-world"/>
+    <updated>2011-07-24T20:52:00-05:00</updated>
+    <id>http://pifantastic.github.com/blog/2011/07/24/hello-world</id>
+    <content type="html">
+</content>
+  </entry>
+  
+</feed>
